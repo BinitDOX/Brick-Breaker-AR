@@ -1,2 +1,2 @@
 # Brick-Breaker-AR
- Added project to git
+ Legacy brick breaking game converted to AR
